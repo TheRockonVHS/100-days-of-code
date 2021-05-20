@@ -30,10 +30,21 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
+### Day 1: May 20, 2021
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work**
+
 -->
 
 ### Day 1: May 20, 2021
 
-**Today's Progress**: I started the Complete Web Developer in 2021 course from Zero to Mastery. Going over the basic HTML5 tags. All of the tags so far, I've worked with before but it's a nice refresher
+**Today's Progress**: I started the Complete Web Developer in 2021 course from Zero to Mastery. I went over the basic HTML5 tags. I knew all of them already but it's a nice refresher.
 
 **Thoughts:** So far it's been a refresher over things, I've learned years ago.
+
+**Link(s) to work**
+https://github.com/TheRockonVHS/Complete-Web-Developer-in-2021-Zero-to-Mastery/blob/main/HTML5/index.html
