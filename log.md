@@ -42,7 +42,7 @@
 
 ### Day 1: May 19, 2021
 
-**Today's Progress**: I started the Complete Web Developer in 2021 course from Zero to Mastery. I went over the basic HTML5 tags. I knew all of them already but it's a nice refresher.
+**Today's Progress**: I started the Complete Web Developer in 2021 course from Zero to Mastery. I went over the basic HTML5 tags. I also did a quick over of the span and div tags and how the span tag is for inline and the div tag is for blocks of code. It's used for CSS. I knew all of them already but it's a nice refresher.
 
 **Thoughts:** So far it's been a refresher over things, I've learned years ago.
 
