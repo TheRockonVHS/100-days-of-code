@@ -40,7 +40,7 @@
 
 -->
 
-### Day 1: May 20, 2021
+### Day 1: May 19, 2021
 
 **Today's Progress**: I started the Complete Web Developer in 2021 course from Zero to Mastery. I went over the basic HTML5 tags. I knew all of them already but it's a nice refresher.
 
@@ -48,3 +48,13 @@
 
 **Link(s) to work**
 https://github.com/TheRockonVHS/Complete-Web-Developer-in-2021-Zero-to-Mastery/blob/main/HTML5/index.html
+
+### Day 2: May 20, 2021
+
+**Today's Progress**: I finished up the basic HTML tags and moved into the form tags. There are a lot of them! I used to use form tags quite often but that was like 10 years ago.
+
+**Thoughts:** I felt pretty good going over all the basic and form tags. I should try to stay coding before 10 PM because I am getting pretty tired.
+
+**Link(s) to work**
+
+https://github.com/TheRockonVHS/Complete-Web-Developer-in-2021-Zero-to-Mastery/tree/main/HTML5
