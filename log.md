@@ -58,3 +58,12 @@ https://github.com/TheRockonVHS/Complete-Web-Developer-in-2021-Zero-to-Mastery/b
 **Link(s) to work**
 
 https://github.com/TheRockonVHS/Complete-Web-Developer-in-2021-Zero-to-Mastery/tree/main/HTML5
+
+### Day 3: May 23, 2021
+
+**Today's Progress**: I finished the HTML section in the course that I'm following. I then made a very basic website where I used all the things I just learned for some more practice. I then started a just a little bit of CSS. I went over the selectors, properties, and values.
+
+**Thoughts:** I learned a little bit and it was nice to get some more coding time in. CSS is pretty cool!
+
+**Link(s) to work**
+https://github.com/TheRockonVHS/Complete-Web-Developer-in-2021-Zero-to-Mastery/tree/main/HTML5/Cool%20Cats%20Website
