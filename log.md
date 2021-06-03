@@ -79,7 +79,7 @@ https://github.com/TheRockonVHS/Complete-Web-Developer-in-2021-Zero-to-Mastery/t
 
 ### Day 5: June 2, 2021
 
-**Today's Progress**: I learned about animations and transitions, those are pretty neat. I did an exercise on Flexbox and I solved it but it more of challenge and I don't really understand it all so I will have to practice more.
+**Today's Progress**: I learned about animations and transitions, those are pretty neat. I did an exercise on Flexbox and solved it, but it is more of a challenge and I don't really understand it all, so I will have to practice more.
 
 **Thoughts:** I couldn't explain Flexbox to anybody else so I have to practice it more.
 
