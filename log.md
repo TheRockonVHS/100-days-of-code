@@ -30,7 +30,7 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
-### Day 1: May 20, 2021
+### Day 1: June , 2021
 
 **Today's Progress**: 
 
@@ -67,3 +67,12 @@ https://github.com/TheRockonVHS/Complete-Web-Developer-in-2021-Zero-to-Mastery/t
 
 **Link(s) to work**
 https://github.com/TheRockonVHS/Complete-Web-Developer-in-2021-Zero-to-Mastery/tree/main/HTML5/Cool%20Cats%20Website
+
+### Day 4: June 1, 2021
+
+**Today's Progress**: Unfortunately, I had a few days where I was super busy moving and helping my roommates move out of our old place so I didn't have much time to code. I learned about CSS Flexbox and it's pretty cool. I just learned about the basics right now but would like to learn more about it.
+
+**Thoughts:** CSS Flexbox is pretty rad and I have never used it before. I am understanding it so far but have to learn more about the different properties.
+
+**Link(s) to work**
+https://github.com/TheRockonVHS/Complete-Web-Developer-in-2021-Zero-to-Mastery/tree/main/Advanced%20CSS
