@@ -85,3 +85,9 @@ https://github.com/TheRockonVHS/Complete-Web-Developer-in-2021-Zero-to-Mastery/t
 
 **Link(s) to work**
 https://codepen.io/therockonvhs/pen/MWpQzRx
+
+### Day 6: June 8, 2021
+
+**Today's Progress**: I started going through the Basic CSS on freecodecamp. I would like more practice. I understand a lot of the basics but the flexbox was a little confusing to me.
+
+**Thoughts:** Pretty easy, I'm just going through this for practice.
