@@ -91,3 +91,9 @@ https://codepen.io/therockonvhs/pen/MWpQzRx
 **Today's Progress**: I started going through the Basic CSS on freecodecamp. I would like more practice. I understand a lot of the basics but the flexbox was a little confusing to me.
 
 **Thoughts:** Pretty easy, I'm just going through this for practice.
+
+### Day 7: June 17, 2021
+
+**Today's Progress**: I finished up the basics of CSS from freecodecamp. I then went on to learn about bootstrap and it's really cool. Super fast to build to have the basics setup.
+
+**Thoughts:** I will have to review the code from bootstrap so I understand it better.
