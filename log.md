@@ -97,3 +97,9 @@ https://codepen.io/therockonvhs/pen/MWpQzRx
 **Today's Progress**: I finished up the basics of CSS from freecodecamp. I then went on to learn about bootstrap and it's really cool. Super fast to build to have the basics setup.
 
 **Thoughts:** I will have to review the code from bootstrap so I understand it better.
+
+### Day 8: June 29, 2021
+
+**Today's Progress**: I finished the practice startup landing page. I setup an account with mailchimp and that was interesting. I also learned about animate.style/ and what the site offers. I am now going to try to make my own landing page. 
+
+**Thoughts:** I have a lot to learn but I'm slowing getting more practice.
