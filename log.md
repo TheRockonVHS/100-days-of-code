@@ -30,13 +30,13 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
-### Day 1: June , 2021
+### Day 1: March , 2023
 
 **Today's Progress**: 
 
-**Thoughts:** 
+**Thoughts**:  
 
-**Link(s) to work**
+**Link(s) to work**: 
 
 -->
 
@@ -103,3 +103,11 @@ https://codepen.io/therockonvhs/pen/MWpQzRx
 **Today's Progress**: I finished the practice startup landing page. I setup an account with mailchimp and that was interesting. I also learned about animate.style/ and what the site offers. I am now going to try to make my own landing page. 
 
 **Thoughts:** I have a lot to learn but I'm slowing getting more practice.
+
+NEW CYCLE
+
+### Day 1: March 5 , 2023
+
+**Today's Progress**: I was working on learning some more information on Event Handlers in JS. I spent a good amount of time on it today.
+
+**Thoughts**: I got confused a little bit but I'm ready to practice more on it and do a couple small projects to reinforce my learning.
