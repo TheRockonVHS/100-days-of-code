@@ -1,4 +1,4 @@
-!--
+<!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -44,8 +44,12 @@ The log of my #100DaysOfCode challenge. Started on [March 5, Sunday, 2023].
 
 ## Log
 
-### Day 1: March 5 , 2023
+### Day 1: March 5, 2023
 
 **Today's Progress**: I was working on learning some more information on Event Handlers in JS. I spent a good amount of time on it today.
 
 **Thoughts**: I got confused a little bit but I'm ready to practice more on it and do a couple small projects to reinforce my learning.
+
+### Day 2: March 6, 2023
+
+**Today's Progress**: I solved a problem I was having with my CSS never loading right; it wasn't working right with Live Server. Worked on some canvas in HTML
