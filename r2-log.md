@@ -53,3 +53,7 @@ The log of my #100DaysOfCode challenge. Started on [March 5, Sunday, 2023].
 ### Day 2: March 6, 2023
 
 **Today's Progress**: I solved a problem I was having with my CSS never loading right; it wasn't working right with Live Server. Worked on some canvas in HTML
+
+### Day 3: March 8, 2023
+
+**Today's Progress**: Finished the etch-a-sketch, worked on canvas drawing, event listeners, and switch statements
