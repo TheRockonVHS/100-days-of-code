@@ -57,3 +57,10 @@ The log of my #100DaysOfCode challenge. Started on [March 5, Sunday, 2023].
 ### Day 3: March 8, 2023
 
 **Today's Progress**: Finished the etch-a-sketch, worked on canvas drawing, event listeners, and switch statements
+**Link(s) to work**: https://replit.com/@TheRockonVHS/Etch-a-Sketch?v=1
+
+### Day 4: March 9, 2023
+
+**Today's Progress**: practiced more with JS Event Listeners and adjusting HTML with JS
+**Thoughts**: I really need the practice and every line I have to fully understand what I'm doing
+**Link(s) to work**: https://replit.com/@TheRockonVHS/Click-Outside?v=1
