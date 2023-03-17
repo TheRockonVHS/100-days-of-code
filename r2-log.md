@@ -70,6 +70,6 @@ The log of my #100DaysOfCode challenge. Started on [March 5, Sunday, 2023].
 
 **Today's Progress**: I worked on a scroll to accept terms and conditions little program. It involved using IntersectionObserver
 
-Day 6: March 16, 2023
+### Day 6: March 16, 2023
 
 **Today's Progress**: I learned about Coercion, Ternaries, and conditional abuse. I will have to go over all that again. I don't have it fully learned as of right now.
