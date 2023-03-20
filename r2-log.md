@@ -73,3 +73,7 @@ The log of my #100DaysOfCode challenge. Started on [March 5, Sunday, 2023].
 ### Day 6: March 16, 2023
 
 **Today's Progress**: I learned about Coercion, Ternaries, and conditional abuse. I will have to go over all that again. I don't have it fully learned as of right now.
+
+### Day 7: March 19, 2023
+
+**Today's Progress**: More work on switch statements and CSS variables, cool little movement project
