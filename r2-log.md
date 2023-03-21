@@ -77,3 +77,7 @@ The log of my #100DaysOfCode challenge. Started on [March 5, Sunday, 2023].
 ### Day 7: March 19, 2023
 
 **Today's Progress**: More work on switch statements and CSS variables, cool little movement project
+
+### Day 8: March 20, 2023
+
+**Today's Progress**: I went over Intervals and Timers and starting to learn about Objects
