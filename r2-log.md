@@ -81,3 +81,7 @@ The log of my #100DaysOfCode challenge. Started on [March 5, Sunday, 2023].
 ### Day 8: March 20, 2023
 
 **Today's Progress**: I went over Intervals and Timers and starting to learn about Objects
+
+### Day 9: March 21, 2023
+
+**Today's Progress**: I learned more about Object and object references vs values. I was learned about Maps and the differences between the two.
