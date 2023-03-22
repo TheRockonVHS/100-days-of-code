@@ -84,4 +84,5 @@ The log of my #100DaysOfCode challenge. Started on [March 5, Sunday, 2023].
 
 ### Day 9: March 21, 2023
 
-**Today's Progress**: I learned more about Object and object references vs values. I was learned about Maps and the differences between the two.
+**Today's Progress**: I learned more about Object and object references vs values. I learned about Maps and the differences between the two.
+**Thoughts**:  I don't fully understand Maps so I want to go over it a bit more.
