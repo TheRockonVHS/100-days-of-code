@@ -86,3 +86,7 @@ The log of my #100DaysOfCode challenge. Started on [March 5, Sunday, 2023].
 
 **Today's Progress**: I learned more about Object and object references vs values. I learned about Maps and the differences between the two.
 **Thoughts**:  I don't fully understand Maps so I want to go over it a bit more.
+
+### Day 10: March 22, 2023
+
+**Today's Progress**: I went over Arrays and Array methods. I learned about mutable and immutable and copying the array to make it immutable. Pretty neat!
