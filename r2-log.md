@@ -90,3 +90,7 @@ The log of my #100DaysOfCode challenge. Started on [March 5, Sunday, 2023].
 ### Day 10: March 22, 2023
 
 **Today's Progress**: I went over Arrays and Array methods. I learned about mutable and immutable and copying the array to make it immutable. Pretty neat!
+
+### Day 11: March 27, 2023
+
+**Today's Progress**:  I learned more about Arrays and Array methods. Just more practice
