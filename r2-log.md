@@ -100,3 +100,7 @@ The log of my #100DaysOfCode challenge. Started on [March 5, Sunday, 2023].
 **Today's Progress**: More practice with Array methods and using functions inside of functions
 
 **Thoughts**: I'm still a bit confused on some of this. I'll will have to read over the notes for some spaced repetition.
+
+### Day 13: March 30, 2023
+
+**Today's Progress**: I learned about some lopping with forEach and Map
