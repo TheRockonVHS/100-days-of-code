@@ -110,3 +110,7 @@ The log of my #100DaysOfCode challenge. Started on [March 5, Sunday, 2023].
 **Today's Progress**: I went over the Array reduce method and then did some more practice with the methods filter, map, and reduce
 
 **Thoughts**: I need to go over this a few more times to cement it.
+
+### Day 15: April 4, 2023
+
+**Today's Progress**: I went over for and while loops which I'm already familiar with and then for of and for in loops which I've never done before. Working on using them more in a little project.
